@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marma\\.nuget\\packages"
+    ]
+  }
+}

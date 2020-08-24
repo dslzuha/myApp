@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>myApp</id>
+    <version>1.0.0</version>
+    <authors>dslzuha</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package adds an dslzuha!</description>
+    <repository url="https://github.com/dslzuha/myApp" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\marma\.git\myApp\myApp\bin\Release\netcoreapp3.1\myApp.runtimeconfig.json" target="lib\netcoreapp3.1\myApp.runtimeconfig.json" />
+    <file src="C:\Users\marma\.git\myApp\myApp\bin\Release\netcoreapp3.1\myApp.dll" target="lib\netcoreapp3.1\myApp.dll" />
+  </files>
+</package>

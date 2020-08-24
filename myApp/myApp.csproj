@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+     <TargetFramework>netcoreapp3.1</TargetFramework>
+     <PackageId>myApp</PackageId>
+     <Version>1.0.0</Version>
+     <Authors>dslzuha</Authors>
+     <Company>GitHub</Company>
+     <PackageDescription>This package adds an dslzuha!</PackageDescription>
+    <RepositoryUrl>https://github.com/dslzuha/myApp</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
