@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>myApp</id>
     <version>1.0.0</version>
     <authors>dslzuha</authors>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>This package adds an dslzuha!</description>
     <repository url="https://github.com/dslzuha/myApp" />
     <dependencies>
